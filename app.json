@@ -1,15 +1,15 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/86037807f4d8370f138ce.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
+    "website": "https://t.me/Pankaj_Patidar_P",
+    "repository": "https://github.com/patelboss/Auto-Filter-Bot-V2",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "TG_BOT_TOKEN": {
